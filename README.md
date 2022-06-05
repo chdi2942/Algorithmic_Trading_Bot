@@ -57,3 +57,9 @@ In this section, we’ll use the original parameters and apply them to the perfo
 ## Evaluation Report
 
 ### Our findings show that the standard SVC model outperformed the LogisticRegression model.  The SVC had a cumulative return of 1.52 compared to the actual return of 1.39.  This demonstrates that the SVC model outperformed a simple "buy and hold" strategy for the asset over the time period that we tested.  The LogisticRegression model had a cumulative return of 1.15 versus the actual return of 1.39.  This means that it did not outperform the "buy and hold" strategy or the regular SVC model.  We can also see, however, that the LogisticRession model had a greater accuracy in its predictions than the SVC model, which is shown in the tables below.
+
+## SVC Model
+![image](https://user-images.githubusercontent.com/96210633/172035241-ba27e021-9dae-4556-84ba-db2d8f5d767c.png)
+
+## LogisticRegression Model
+![image](https://user-images.githubusercontent.com/96210633/172035261-405607b6-5966-4189-8b5d-1f427fcf4cb0.png)
