@@ -63,3 +63,10 @@ In this section, we’ll use the original parameters and apply them to the perfo
 
 ## LogisticRegression Model
 ![image](https://user-images.githubusercontent.com/96210633/172035261-405607b6-5966-4189-8b5d-1f427fcf4cb0.png)
+
+## SVC Cumulative Returns vs. Actual Returns
+![image](https://user-images.githubusercontent.com/96210633/172035297-ac20ab3a-0d8c-4b48-80d6-cb56909fe672.png)
+
+## LogisticRegression Returns vs. Actual Returns
+![image](https://user-images.githubusercontent.com/96210633/172035319-93a9d424-0eb6-4e97-9823-64cf638fe29f.png)
+
